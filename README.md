@@ -1,5 +1,12 @@
 <h1 align="center">Conversor de divisas</h1>💱
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0ae25fff-8a70-4462-b203-c7dedc857d00" alt="Conversor de divisas por defecto" width="700" height="600" />
+  <img src="https://github.com/user-attachments/assets/06096e18-6ec0-4328-823d-5d0d08168627" alt="Conversor de divisas en acción" width="700" height="600" />
+</div>
+
+---
+
 Este proyecto es una aplicación web interactiva desarrollada con **HTML**, **CSS** y **JavaScript**. Su propósito es facilitar la conversión de montos entre diversas divisas en tiempo real, ofreciendo una experiencia de usuario fluida y atractiva.
 
 ---
@@ -94,14 +101,6 @@ Este proyecto es una aplicación web interactiva desarrollada con **HTML**, **CS
 2. **Abre el archivo index.html en tu navegador.
 3. **Ingresa la cantidad a convertir y selecciona las divisas deseadas.
 4. **Haz clic en "Convertir" para ver el resultado actualizado en tiempo real.
-
----
-
-## Imágenes de la aplicación
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/0ae25fff-8a70-4462-b203-c7dedc857d00" alt="Conversor de divisas por defecto" width="700" height="600" />
-  <img src="https://github.com/user-attachments/assets/06096e18-6ec0-4328-823d-5d0d08168627" alt="Conversor de divisas en acción" width="700" height="600" />
-</div>
 
 ---
 
