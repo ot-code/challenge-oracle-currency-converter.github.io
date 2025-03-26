@@ -1,4 +1,4 @@
-# Conversor de divisas
+<h1 align="center">Conversor de divisas</h1>💱
 
 Este proyecto es una aplicación web diseñada para convertir montos entre diferentes divisas de manera sencilla e interactiva. Fue desarrollada utilizando **HTML**, **CSS** y **JavaScript**, aprovechando las ventajas de cada tecnología para lograr una experiencia de usuario fluida.
 
@@ -278,8 +278,6 @@ result.innerHTML = `${amount} ${fromCurrency} = ${convertedAmount.toFixed(2)} ${
     El archivo define una variable `currencies` que es un array con códigos ISO de divisas, lo que permite que la aplicación sea compatible con una amplia gama de monedas. Esto facilita la generación dinámica de los elementos `<option>` en los desplegables.
     
     ```
-    js
-    Copy
     currencies = [
       "AED", "AFN", "ALL", "AMD", "ANG", "AOA", "ARS", "AUD",
       "AWG", "AZN", "BAM", "BBD", "BDT", "BGN", "BHD", "BIF",
